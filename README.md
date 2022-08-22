@@ -15,15 +15,13 @@ Aesthete is a web application catered towards artists. It is a new reimagined so
 10. Delete account
 
 # Dependencies
-1. Nodejs
-2. MongoDB
-3. MongoDB Compass
-4. dotenv
-5. express
-7. multer
-8. bcrypt
-9. body parser
-10. hbs
+- Nodejs
+- MongoDB
+- express
+- multer
+- bcrypt
+- body parser
+- hbs
 
 # How to Run
 This web application requires an internet connection in order to properly load google fonts.
@@ -89,6 +87,10 @@ Alternatively, you may also register an account. It is **important** not to leav
 11. You may logout using the controls from the menubar. Alternatively, you may also delete your own account from the edit profile page.
 
 <br><br>
+
+# Authors
+- Ocampo, Andrea Nicole
+- Pioquinto, Cherrie Luz
 
 # Disclaimer
 This application is created for a school project under our web development class. This project is meant to teach us the basics of being a full-stack developer.
