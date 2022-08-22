@@ -86,7 +86,6 @@ Alternatively, you may also register an account. It is **important** not to leav
 10. To upload a post, you may choose any photo of your liking, and post any caption. However, when enclosing tags, it is important to separate each tag by a comma *,* ONLY. `(i.e anime,manga,color)`
 11. You may logout using the controls from the menubar. Alternatively, you may also delete your own account from the edit profile page.
 
-<br><br>
 
 # Authors
 - Ocampo, Andrea Nicole
