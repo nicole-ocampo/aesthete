@@ -23,6 +23,9 @@ Aesthete is a web application catered towards artists. It is a new reimagined so
 - body parser
 - hbs
 
+# Demo
+https://www.youtube.com/watch?v=sTXBBd_k31Q
+
 # How to Run
 This web application requires an internet connection in order to properly load google fonts.
 This application is now accessible at: ~~https://aestheteforartists.herokuapp.com/~~
